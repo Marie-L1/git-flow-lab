@@ -13,12 +13,12 @@ const poems = [
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
-  },
+  },  
   {
-    author: "ChatGPT",
-    poem: "Lines of code we write, \n Logic flows in quiet night, \n Errors fade to light.",
-    image: "coding.jpeg",
-  }
+    author: "Langston Hughes",
+    poem: "The night is beautiful, \n So the faces of my people. \n The stars are beautiful, \n So the eyes of my people.",
+    image: "short-poem.png",
+  },  
 ];
 
 let displayPoems = (array) => {
