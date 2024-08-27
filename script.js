@@ -13,7 +13,7 @@ const poems = [
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
-  },
+  },  
   {
     author: "Langston Hughes",
     poem: "The night is beautiful, \n So the faces of my people. \n The stars are beautiful, \n So the eyes of my people.",
