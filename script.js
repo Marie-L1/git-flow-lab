@@ -18,6 +18,11 @@ const poems = [
     author: "ChatGPT",
     poem: "Lines of code we write, \n Logic flows in quiet night, \n Errors fade to light.",
     image: "bee.jpeg",
+  },
+  {
+    author: "Maria",
+    poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+    image: "book.jpg",
   }
 ];
 
