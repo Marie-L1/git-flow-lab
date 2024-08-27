@@ -19,7 +19,6 @@ const poems = [
     poem: "The night is beatuifulm \n So the faces of my people. \n The stars are beautiful, \n So the eyes of my people.",
     image: "bee.jpeg",
   },  
-  },
   {
     author: "ChatGPT",
     poem: "Lines of code we write, \n Logic flows in quiet night, \n Errors fade to light.",
