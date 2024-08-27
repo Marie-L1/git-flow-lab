@@ -15,7 +15,7 @@ const poems = [
     image: "bee.jpeg",
   },  
   {
-    author: "Dickenson",
+    author: "Maria/Dickinson",
     poem: "There is no frigate like a book \n To take us lands away, \n Nor any coursers like a page \n Of prancing poetry.",
     image: "book.jpg",
   }, 
