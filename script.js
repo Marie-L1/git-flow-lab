@@ -14,6 +14,11 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
   },  
+  {
+    author: "Dickenson",
+    poem: "There is no frigate like a book \n To take us lands away, \n Nor any coursers like a page \n Of prancing poetry.",
+    image: "book.jpg",
+  }, 
 ];
 
 let displayPoems = (array) => {
